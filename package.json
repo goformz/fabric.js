@@ -58,11 +58,6 @@
     "testem:visual": "testem --file testem-visual.json",
     "testem:ci": "testem ci"
   },
-  "optionalDependencies": {
-    "canvas": "1.6.x",
-    "jsdom": "9.x.x",
-    "xmldom": "0.1.x"
-  },
   "devDependencies": {
     "eslint": "4.18.x",
     "istanbul": "0.4.x",
